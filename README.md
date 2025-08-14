@@ -31,14 +31,15 @@ The data used for this report was sourced from the Housing-Hub property sales da
 The real estate market is highly dynamic, with property values and sales volumes fluctuating based on location, season, and market demand. However, without a centralized and interactive reporting tool, stakeholders struggle to gain a holistic view of market trends. Traditional static reports often fail to highlight real-time changes, city-specific performance, and price variations, making it difficult for investors, property managers, and policy makers to respond effectively. The Housing-Hub Real Estate Report addresses this challenge by providing a visual and data-driven solution to track property sales metrics, analyze market patterns, and support strategic decision-making.
 
 ### Power BI and Analytics Technical Skills
--Project Planning and Documentation
--Data Gathering
--Power Query
--Data Modelling
--Report Design
--Data Visualization
--Data Analysis Expression (DAX)
--Feedback and Continuous Improvement
+
+- Project Planning and Documentation
+- Data Gathering
+- Power Query
+- Data Modelling
+- Report Design
+- Data Visualization
+- Data Analysis Expression (DAX)
+- Feedback and Continuous Improvement
 
 ### Data Modelling
 
@@ -69,7 +70,7 @@ The dashboard revealed several important trends:
 
   The Housing-Hub Real Estate Report demonstrates the value of interactive business intelligence tools in understanding property market trends. By enabling real-time filtering, city-level performance tracking, and year-over-year comparisons, it offers a strategic advantage to decision-makers.
 Recommendations:
-- Focus marketing strategies on top-performing cities.
+- Focus marketing strategies on top-performing cities like Nashville and Joelton.
 - Analyze mid-year peaks to align property listings and promotions with buyer activity.
 - Explore the demand for 3–4 bedroom homes to target high-value customer segments.
 
