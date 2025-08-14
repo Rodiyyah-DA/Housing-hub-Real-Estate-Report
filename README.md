@@ -66,7 +66,7 @@ The dashboard revealed several important trends:
 - Bedroom Analysis: Properties with 3–4 bedrooms accounted for the majority of sales value, showing a preference in the buyer’s market.
 - Market Value: The dataset represented a total of 56.48K properties, 6 billion in value, and 18 billion in total sales.
 
-  ### Conclusions and Recommendations
+ ### Conclusions and Recommendations
 
   The Housing-Hub Real Estate Report demonstrates the value of interactive business intelligence tools in understanding property market trends. By enabling real-time filtering, city-level performance tracking, and year-over-year comparisons, it offers a strategic advantage to decision-makers.
 Recommendations:
@@ -74,11 +74,9 @@ Recommendations:
 - Analyze mid-year peaks to align property listings and promotions with buyer activity.
 - Explore the demand for 3–4 bedroom homes to target high-value customer segments.
 
-### Deployment to Power BI Service
+ ### Deployment to Power BI Service
 
 The report was published to the Power BI Service for cloud-based access, enabling:
 - Collaborative sharing among stakeholders.
 - Scheduled data refreshes to keep insights up to date.
 - Secure access controls for data governance.
-
-
