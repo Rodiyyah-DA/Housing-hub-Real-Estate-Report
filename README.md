@@ -6,7 +6,7 @@
 - [Data Sources](#data-sources)
 - [Problem Statement](#problem-statement)
 - [Power BI and Analytics Technical Skills](#power-bi-and-analytics-technical-skills)
-- [Data Modelling](#data-modelling)
+- [Data Modeling](#data-modeling)
 - [Report Design and Visualization](#report-design-and-visualization)
 - [Analytics and Insights](#analytics-and-insights)
 - [Conclusions and Recommendations](#conclusions-and-recommendations)
@@ -45,7 +45,7 @@ The real estate market is highly dynamic, with property values and sales volumes
 - Data Analysis Expression (DAX)
 - Feedback and Continuous Improvement
 
-### Data Modelling
+### Data Modeling
 ---
 
 The data model was structured to ensure accurate relationships and efficient filtering across the report. Key modeling steps included:
