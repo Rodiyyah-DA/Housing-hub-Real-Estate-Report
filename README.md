@@ -17,7 +17,7 @@
 
 The Housing-Hub Real Estate Report is an interactive Power BI dashboard designed to provide a comprehensive overview of property sales trends across multiple cities. It consolidates real estate data to present key metrics such as annual and monthly sales prices, property counts by location, average sales by city, and sales distribution by bedroom count. By integrating these insights, the dashboard enables stakeholders to track market performance, identify growth opportunities, and make informed decisions.
 
-<img width="745" height="415" alt="RODIYYAH'S PROJECT 1" src="https://github.com/user-attachments/assets/a5b1eda3-844e-40ff-a23f-a5ab84a36c1e" />
+<img width="755" height="423" alt="RODIYYAH'S PROJECT 11" src="https://github.com/user-attachments/assets/c35da95d-18a8-44cc-a14f-79c2b87988a6" />
 
 ### Data Sources
 ---
